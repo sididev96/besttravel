@@ -110,7 +110,7 @@ h3 {
     color: #fff;
     border-radius: 200px;
     border: 1.5px #2980b9 solid;
-    transition: background-color 0.2s, border 0.2s, color 0.2s;
+    transition: background-color 0.3s, border 0.3s, color 0.3s;
     margin-top: 13px;
 }
 
@@ -147,7 +147,7 @@ h3 {
     color: #2980b9;
     text-decoration: none;
     border-bottom: 2px solid #2980b9;
-    transition: color 0.2s, border 0.2s;
+    transition: color 0.3s, border 0.3s;
     padding-bottom: 1px;
 }
 
