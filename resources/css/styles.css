@@ -45,6 +45,10 @@ ul {
     list-style: none;
 }
 
+section {
+    padding: 70px 0;
+}
+
 /* HEADER */
 
 header {
@@ -57,7 +61,7 @@ header {
 
 .hero-text-box {
     position: absolute;
-    width: 1080;
+    width: 1080px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -214,7 +218,6 @@ ion-icon {
 /* SECTION */
 
 .selection-features {
-    padding: 80px 80px;
     text-align: center;
     margin-left: 50px;
 }
@@ -233,6 +236,9 @@ ion-icon {
 }
 
 /* SECTION 2 */
+.pictures-section{
+    padding: 0;
+}
 
 .pic-showcase {
     width: 100%;
@@ -270,10 +276,6 @@ ion-icon {
 
 .app-section {
     background-color: #f4f4f4;
-}
-
-.app-section h2 {
-    margin-top: 40px;
 }
 
 .steps-box:first-child {
@@ -322,7 +324,6 @@ ion-icon {
 
 .section-cities {
     text-align: left;
-    margin-top: 30px;
     margin-right: 5%;
 }
 
@@ -340,7 +341,7 @@ ion-icon {
 
 .section-testimonials h2 {
     color: #fff;
-    margin-top: 30px;
+    padding-top: 15px;
 }
 
 .section-testimonials {
@@ -372,7 +373,6 @@ cite img {
 
 .sign-up {
     background-color: #f4f4f4;
-    padding-top: 30px;
 }
 
 .plan-box {
@@ -413,10 +413,6 @@ cite img {
 
 /* SECTION 7 */
 
-.form-section {
-    margin-top: 30px;
-}
-
 .contact-form {
     width: 60%;
     margin: 0 auto;
@@ -436,8 +432,7 @@ input[type=checkbox] {
 /* FOOTER  */
 
 footer {
-    margin-top: 20px;
-    padding-top: 30px;
+    padding-top: 25px;
     background-color: rgb(59, 59, 59);
 }
 

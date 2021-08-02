@@ -1,15 +1,19 @@
 @media only screen and (max-width: 1200px) {
-
+  .hero-text-box {
+    width: 100%;
+    padding: 0 3.5%;
+  }
+  .row {
+    padding: 0 1%;
+  }
 }
 
 @media only screen and (max-width: 1023px) {
-
+  body {
+    font-size: 18px;
+  }
 }
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 767px) {}
 
-}
-
-@media only screen and (max-width: 480px) {
-  
-}
+@media only screen and (max-width: 480px) {}
