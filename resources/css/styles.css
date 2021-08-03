@@ -75,8 +75,8 @@ h1, h2, h3 {
 
 h1 {
     margin: 0;
-    color: white;
-    font-size: 60px;
+    color: rgb(236, 221, 221);
+    font-size: 90px;
     word-spacing: 3px;
     letter-spacing: 1px;
 }
