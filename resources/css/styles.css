@@ -219,11 +219,10 @@ ion-icon {
 
 .selection-features {
     text-align: center;
-    margin-left: 50px;
 }
 
 .selection-features .col {
-    padding: 8px;
+    padding: 5px;
 }
 
 .long-copy {
@@ -232,7 +231,7 @@ ion-icon {
 
 .features {
     text-align: justify;
-    padding: 2%;
+    padding: 1%;
 }
 
 /* SECTION 2 */
