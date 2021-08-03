@@ -21,7 +21,7 @@ html {
 }
 
 .row {
-    max-width: 1080;
+    max-width: 1140px;
     margin: 0 auto;
 }
 
@@ -322,11 +322,6 @@ ion-icon {
 
 /* SECTION 4 */
 
-.section-cities {
-    text-align: left;
-    margin-right: 5%;
-}
-
 .city-feature {
     margin-bottom: 5px;
 }
@@ -345,6 +340,7 @@ ion-icon {
 }
 
 .section-testimonials {
+    padding: 0;
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(img/shore.jpg);
     background-size: cover;
     color: #fff;
@@ -437,7 +433,7 @@ footer {
 }
 
 .footercnt {
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
 }
 
